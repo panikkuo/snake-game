@@ -1,0 +1,14 @@
+﻿  snake.cpp
+C:\пет-проекты\змейка\snake\snake.cpp(104,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\пет-проекты\змейка\snake\snake.cpp(119,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\пет-проекты\змейка\snake\snake.cpp(123,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\пет-проекты\змейка\snake\snake.cpp(132,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\пет-проекты\змейка\snake\snake.cpp(175,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  0 of 95 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  snake.vcxproj -> C:\пет-проекты\змейка\x64\Release\snake.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

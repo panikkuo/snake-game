@@ -1,7 +1,0 @@
-﻿  snake.cpp
-C:\Users\labeya1\Desktop\C++_Posgress learn\CODERUN\snake\snake\snake.cpp(97,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\labeya1\Desktop\C++_Posgress learn\CODERUN\snake\snake\snake.cpp(112,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\labeya1\Desktop\C++_Posgress learn\CODERUN\snake\snake\snake.cpp(144,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  snake.vcxproj -> C:\Users\labeya1\Desktop\C++_Posgress learn\CODERUN\snake\x64\Debug\snake.exe
-  "pwsh.exe" не является внутренней или внешней
-  командой, исполняемой программой или пакетным файлом.

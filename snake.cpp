@@ -129,11 +129,8 @@ void Input() {
 bool isGameOver() {
     if (snake[0].x == 0 || snake[0].x == fieldWidth ||
         snake[0].y == 0 || snake[0].y == fieldHeight) {
-            cout << snake[0].y;
             return true;
-
         }
-        
     
     for (int i = 1; i < snake.size(); i++)
         if (snake[0].x == snake[i].x && snake[0].y == snake[i].y)
@@ -154,7 +151,7 @@ void Logic() {
         snake[i].y = snake[i - 1].y;
         snake[i].segment_type = snake[i - 1].segment_type;
     }
-    
+
     snake[0].segment_type = Segment::Head;
     
     switch (direction)
